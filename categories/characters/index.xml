@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Characters on Geo</title>
+    <link>http://geogc.github.io/categories/characters/</link>
+    <description>Recent content in Characters on Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geogc.github.io/categories/characters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Characters</title>
+      <link>http://geogc.github.io/characters/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geogc.github.io/characters/</guid>
+      <description>Characters Shin: The main protagonist of the game.</description>
+    </item>
+    
+  </channel>
+</rss>

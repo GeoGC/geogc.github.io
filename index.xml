@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geo</title>
+    <link>http://geogc.github.io/</link>
+    <description>Recent content on Geo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://geogc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://geogc.github.io/about/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geogc.github.io/about/</guid>
+      <description>About I&amp;rsquo;m Geo, currently an indie game and sound developer. I have started developing games with Unreal Development Kit (UDK) back in 2012. Now I&amp;rsquo;m developing with Unreal Engine 4. Most of my sounds are being made with Serum through Reaper.
+Though mainly a level designer, I do programming, 3D modeling and sounds (effects and music).
+My focus is on innovative games. Main target platform is PC, web and mobile are secondary.</description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>http://geogc.github.io/gallery/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://geogc.github.io/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characters</title>
+      <link>http://geogc.github.io/characters/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geogc.github.io/characters/</guid>
+      <description>Characters Shin: The main protagonist of the game.</description>
+    </item>
+    
+    <item>
+      <title>Introduction of Project-X</title>
+      <link>http://geogc.github.io/blog/introduction/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://geogc.github.io/blog/introduction/</guid>
+      <description>Introduction Project-X (unofficial name) is an upcoming role-playing game (RPG). It&amp;rsquo;s an open world RPG with turn-based battle system. The game is fully developed on Unreal Engine 4.
+Every month, there will be new content added to this website (videos, pictures or information) so people that want to know about this project will be informed with details and be able to express their opinion.
+The plan is to release a small part of the first chapter (after that part will be at least 90% completed obviously) to the public.</description>
+    </item>
+    
+  </channel>
+</rss>
